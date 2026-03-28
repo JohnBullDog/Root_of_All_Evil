@@ -7,3 +7,5 @@
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=239148675]
 scale = Vector2(179.478, 100)
 texture = SubResource("CanvasTexture_y8p4o")
+
+[node name="BankManager" type="Node" parent="." unique_id=1207408421]
