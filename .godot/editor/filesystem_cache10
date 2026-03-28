@@ -1,4 +1,6 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1774487113
+::res://::1774568317
 icon.svg::CompressedTexture2D::1878685431524217281::1774486915::1774486915::1::::<><><>0<>0<>7ec6abfae9189bf57b63630720d3183d<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-node_2d_INITIAL.tscn::PackedScene::3249811987110040176::1774486915::0::1::::<><><>0<>0<><>::
+node_2d_INITIAL.tscn::PackedScene::3249811987110040176::1774487373::0::1::::<><><>0<>0<><>::
+::res://BankSystem/::1774487373
+BankManager.cs::CSharpScript::6786641441833575742::1774489706::0::1::::<><><>0<>0<><>::
